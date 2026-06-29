@@ -27,7 +27,17 @@ Every project is written by me while learning Python fundamentals, problem solvi
 ---
 
 ### 3. Password Generator
-*Coming Soon*
+**Topics Covered**
+- User-defined password length
+- Choose whether to include:
+- Uppercase letters
+- Lowercase letters
+- Numbers
+- Special characters
+- Random password generation
+- Input validation using try-except
+- Option to generate multiple passwords
+- Prevents invalid inputs
 
 ---
 
